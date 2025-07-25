@@ -73,9 +73,9 @@ export const heroData: Hero = {
   description: (
     <>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        I'm a Victoria based <strong className="text-stone-100">Full Stack Software Engineer</strong>, currently working
-        at <strong className="text-stone-100">Instant Domains</strong> helping build a modern, mobile-first, domain
-        registrar and site builder.
+        I'm a US based <strong className="text-stone-100">IT End Support Analyst</strong>, currently working
+        at <strong className="text-stone-100">University of Pittsburgh</strong> helping build a modern, efficient, scalable 
+        user infrastructure. 
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time time, you can catch me training in <strong className="text-stone-100">Muay Thai</strong>,
@@ -104,9 +104,14 @@ export const heroData: Hero = {
  */
 export const aboutData: About = {
   profileImageSrc: profilepic,
-  description: `Use this bio section as your way of describing yourself and saying what you do, what technologies you like
-  to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing
-  in.`,
+  description: `I'm a technically skilled IT professional with hands-on experience supporting over 1,000 
+  users in a complex enterprise environment. My work focuses on endpoint management, system automation, and 
+  infrastructure support across Windows, Linux, and macOS platforms. I'm certified in AWS, A+, Network+, and 
+  Security+, and hold a degree in Systems Administration and Cloud Computing.
+
+Outside of work, I run a self-hosted homelab (Proxmox, pfSense, Pi-hole, Grafana) and build custom tools
+using PowerShell and Linux to improve workflows, harden systems, and reduce manual overhead. I'm passionate 
+about open-source tech, process improvement, and using automation to solve real-world problems.`,
   aboutItems: [
     {label: 'Location', text: 'Pittsburgh, PA', Icon: MapIcon},
     {label: 'Age', text: '30', Icon: CalendarIcon},
