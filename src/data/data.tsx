@@ -78,9 +78,9 @@ export const heroData: Hero = {
         user infrastructure. 
       </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
-        In my free time time, you can catch me training in <strong className="text-stone-100">Muay Thai</strong>,
-        plucking my <strong className="text-stone-100">banjo</strong>, or exploring beautiful{' '}
-        <strong className="text-stone-100">Vancouver Island</strong>.
+        In my free time time, you can catch me on the slopes <strong className="text-stone-100">Snowboarding</strong> of course,
+         Every Tuesday at <strong className="text-stone-100">Karaoke</strong>, or exploring a {' '}
+        <strong className="text-stone-100">National Park</strong>.
       </p>
     </>
   ),
